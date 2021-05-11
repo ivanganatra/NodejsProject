@@ -1,0 +1,19 @@
+{
+  "name": "project.",
+  "version": "1.0.0",
+  "description": "This is the package.json file of my project",
+  "main": "App.js",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gh repo clone ivanganatra/NodejsProject"
+  },
+  "author": "Ivan Ganatra",
+  "license": "MIT"
+}
